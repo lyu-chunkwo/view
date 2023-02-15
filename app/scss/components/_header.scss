@@ -1,0 +1,32 @@
+.header {
+  padding: 15px 0;
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__menu {
+    display: flex;
+  }
+
+  &__item {
+    margin-right: 15px;
+  }
+
+  &__link {
+  }
+
+  &__phone {
+  }
+}
+
+.logo {
+  width: 100px;
+
+  &__link {
+  }
+
+  &__img {
+  }
+}
